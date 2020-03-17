@@ -1,0 +1,17 @@
+{
+  "name": "begin-babel-example",
+  "version": "1.0.0",
+  "description": "Begin example: learn JavaScript transpiling with Babel",
+  "scripts": {
+    "build": "npx babel ./lib -d ./src --copy-files --include-dotfiles",
+    "start": "npm run build & npx sandbox"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@architect/architect": "^6.2.4",
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "@babel/plugin-proposal-optional-chaining": "^7.8.3",
+    "@babel/preset-env": "^7.8.7"
+  }
+}
