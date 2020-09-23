@@ -5,8 +5,8 @@ module.exports = function(api) {
       "@babel/preset-env",
       {targets: {node: true}, modules: 'cjs'}
     ]],
-    plugins: [[
+    plugins: [
       "@babel/plugin-proposal-optional-chaining"
-    ]]
+    ]
   }
 }
