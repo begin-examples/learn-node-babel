@@ -9,7 +9,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@architect/sandbox": "^2.0.0",
+    "@architect/sandbox": "^3.2.1",
     "@babel/cli": "^7.12.8",
     "@babel/core": "^7.12.9",
     "@babel/plugin-proposal-optional-chaining": "^7.12.7",
