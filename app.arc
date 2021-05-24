@@ -1,5 +1,5 @@
 @app
-init
+node-babel
 
 @http
 get /
