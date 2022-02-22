@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@architect/sandbox": "^4.5.2",
-    "@babel/cli": "^7.17.3",
+    "@babel/cli": "^7.17.6",
     "@babel/core": "^7.17.5",
     "@babel/plugin-proposal-optional-chaining": "^7.16.7",
     "@babel/preset-env": "^7.16.11",
